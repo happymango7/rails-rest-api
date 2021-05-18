@@ -49,7 +49,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 # Use to provide support for Cross-Origin Resource Sharing (CORS) with Rack
-gem 'rack-cors', '~> 0.4.0', require: 'rack/cors'
+gem 'rack-cors', '~> 1.0.5', require: 'rack/cors'
 
 # EventMachine implements a fast, single-threaded engine for arbitrary network communications.
 gem 'eventmachine', '~> 1.0.7'
